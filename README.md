@@ -1,1 +1,1 @@
-# paradoks
+# newsapp
